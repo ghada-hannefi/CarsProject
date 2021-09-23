@@ -1,0 +1,31 @@
+#login{
+  margin: 10px;
+  padding: 6px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-align: center;
+  background-color: #ecb21f;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: black;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 13px;
+  width: 15%
+}
+
+#between{
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+}
+#commentinput{
+  border-radius: 2px;
+  border-color:#ecb21f ;
+  width: 400px;
+  margin: 20px;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+}
